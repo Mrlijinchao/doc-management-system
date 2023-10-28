@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="elasticsearch-analysis-ik-7.9.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/docker/elasticsearch-analysis-ik-7.9.3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
